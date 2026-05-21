@@ -105,3 +105,113 @@ Need urgent order delivery,Order Issue
 Order cancellation refund pending,Order Issue
 Received incorrect invoice with order,Order Issue
 Replacement product not delivered,Order Issue
+Internet connection drops frequently,Technical
+Unable to connect to office VPN,Technical
+Application throws runtime exception,Technical
+Laptop battery drains quickly,Technical
+Unable to print documents from system,Technical
+System hangs while opening software,Technical
+Audio issue during video meetings,Technical
+Unable to connect to database server,Technical
+Keyboard not responding properly,Technical
+Mouse cursor freezes intermittently,Technical
+Monitor display flickering issue,Technical
+Network packet loss detected,Technical
+Unable to install latest software patch,Technical
+File upload functionality not working,Technical
+Server downtime observed unexpectedly,Technical
+Cloud sync operation failed,Technical
+Unable to access shared drive,Technical
+Frequent timeout while accessing portal,Technical
+Application loading very slowly,Technical
+Software license validation failed,Technical
+Unable to connect Bluetooth device,Technical
+Firewall blocking application access,Technical
+Operating system update stuck,Technical
+Mobile application closes automatically,Technical
+Data synchronization issue observed,Technical
+API response taking too much time,Technical
+System unable to detect external device,Technical
+Background service stopped unexpectedly,Technical
+Email attachment download failed,Technical
+Cache memory overflow issue,Technical
+Payment deducted but order not confirmed,Billing
+Refund request taking too long,Billing
+Incorrect invoice amount generated,Billing
+Unable to process online transaction,Billing
+Payment gateway unavailable,Billing
+Need duplicate invoice copy,Billing
+Subscription plan charged incorrectly,Billing
+Bank account not linked properly,Billing
+EMI transaction declined,Billing
+Auto renewal activated unexpectedly,Billing
+Wallet amount deducted twice,Billing
+Unable to add new payment method,Billing
+Payment verification pending,Billing
+GST tax calculation mismatch,Billing
+Invoice PDF download failed,Billing
+Coupon discount not reflected,Billing
+Refund credited to wrong account,Billing
+Unable to stop recurring payment,Billing
+Payment history not visible,Billing
+Need invoice correction,Billing
+Unable to login using registered email,Login Issue
+Forgot password email not received,Login Issue
+Account temporarily blocked,Login Issue
+Login verification code invalid,Login Issue
+Unable to authenticate through OTP,Login Issue
+Login screen freezes frequently,Login Issue
+Unable to access dashboard after login,Login Issue
+Session timeout occurs repeatedly,Login Issue
+Password reset functionality failing,Login Issue
+Social media login integration issue,Login Issue
+Browser compatibility problem during sign in,Login Issue
+Two-factor authentication unavailable,Login Issue
+Login redirect loop issue,Login Issue
+Incorrect username or password error,Login Issue
+Unable to recover disabled account,Login Issue
+Security answer validation failed,Login Issue
+Unexpected logout after login,Login Issue
+Biometric login not functioning,Login Issue
+Captcha verification issue observed,Login Issue
+Authentication token expired frequently,Login Issue
+Need help changing registered mobile number,Account Management
+Unable to update personal information,Account Management
+Profile picture upload issue,Account Management
+Duplicate account created accidentally,Account Management
+Unable to deactivate account,Account Management
+Privacy settings not saving,Account Management
+Need assistance with account permissions,Account Management
+Email verification link expired,Account Management
+Unable to link secondary email,Account Management
+Notification preferences reset automatically,Account Management
+Subscription details not updating,Account Management
+Profile changes not reflecting,Account Management
+Unable to remove connected device,Account Management
+Need to reactivate suspended account,Account Management
+User role assignment issue,Account Management
+Account synchronization failed,Account Management
+Unable to manage saved addresses,Account Management
+Mobile number verification pending,Account Management
+Need to transfer account ownership,Account Management
+Unable to edit profile information,Account Management
+Order delivery taking longer than expected,Order Issue
+Received wrong item in shipment,Order Issue
+Package tracking not updating,Order Issue
+Order cancellation request failed,Order Issue
+Courier unable to locate address,Order Issue
+Damaged product received from seller,Order Issue
+Need replacement for defective item,Order Issue
+Shipment delayed due to logistics issue,Order Issue
+Partial items missing from package,Order Issue
+Order marked delivered incorrectly,Order Issue
+Unable to modify delivery address,Order Issue
+Need urgent delivery arrangement,Order Issue
+Replacement order not dispatched yet,Order Issue
+Tracking number showing invalid status,Order Issue
+Product packaging damaged during transit,Order Issue
+Delivery partner not responding,Order Issue
+Wrong invoice attached with shipment,Order Issue
+Order exchange request still pending,Order Issue
+Unable to track international shipment,Order Issue
+Return pickup not scheduled,Order Issue
