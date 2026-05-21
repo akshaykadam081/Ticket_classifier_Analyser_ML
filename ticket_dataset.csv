@@ -5,3 +5,103 @@ Unable to login to account,Login Issue
 Need refund for duplicate payment,Billing
 Application crashes frequently,Technical
 Password reset link not working,Login Issue
+Internet is not working,Technical
+WiFi connection keeps disconnecting,Technical
+Unable to connect to VPN,Technical
+Application crashes during login,Technical
+Server response is very slow,Technical
+Software installation failed,Technical
+Laptop is overheating frequently,Technical
+Blue screen error on startup,Technical
+System is showing memory error,Technical
+Email application not opening,Technical
+Need refund for duplicate payment,Billing
+Payment failed during checkout,Billing
+Incorrect amount deducted from account,Billing
+Invoice not generated after payment,Billing
+Subscription charged twice,Billing
+Unable to update billing information,Billing
+Credit card payment unsuccessful,Billing
+Refund has not been processed,Billing
+Need GST invoice copy,Billing
+Payment gateway timeout issue,Billing
+Unable to login to account,Login Issue
+Password reset link not working,Login Issue
+Forgot account password,Login Issue
+Two-factor authentication failed,Login Issue
+Account locked after multiple attempts,Login Issue
+OTP not received during login,Login Issue
+Username and password invalid,Login Issue
+Unable to access user dashboard,Login Issue
+Session expires immediately after login,Login Issue
+Login page keeps loading,Login Issue
+Need account activation support,Account Management
+Unable to update profile information,Account Management
+Want to change registered email,Account Management
+Unable to delete user account,Account Management
+Profile picture upload failed,Account Management
+Need to modify account settings,Account Management
+Unable to link mobile number,Account Management
+Account details are incorrect,Account Management
+Need help with subscription settings,Account Management
+Cannot verify email address,Account Management
+Order delivery delayed,Order Issue
+Wrong product delivered,Order Issue
+Order status not updated,Order Issue
+Unable to track shipment,Order Issue
+Need order cancellation,Order Issue
+Package delivered to wrong address,Order Issue
+Delivery agent not responding,Order Issue
+Received damaged product,Order Issue
+Partial order received,Order Issue
+Order marked delivered but not received,Order Issue
+Mobile app crashes on startup,Technical
+Printer is not responding,Technical
+Unable to sync application data,Technical
+Audio not working in application,Technical
+Video playback issue detected,Technical
+Application freezes frequently,Technical
+Unable to upload files,Technical
+Database connection timeout,Technical
+Network latency is too high,Technical
+System update failed unexpectedly,Technical
+Need refund for cancelled order,Billing
+Payment receipt not received,Billing
+Auto debit should be stopped,Billing
+Wallet balance not updated,Billing
+Coupon code not applied,Billing
+Tax amount calculation incorrect,Billing
+Billing address update failed,Billing
+Unable to download invoice,Billing
+EMI payment failed,Billing
+Subscription renewal unsuccessful,Billing
+Unable to sign in after password change,Login Issue
+Captcha validation failed,Login Issue
+Social login not working,Login Issue
+Login verification email delayed,Login Issue
+Unable to authenticate device,Login Issue
+Temporary login suspension issue,Login Issue
+Browser compatibility issue during login,Login Issue
+Login redirect error,Login Issue
+Unable to recover account access,Login Issue
+Security question validation failed,Login Issue
+Need to deactivate account temporarily,Account Management
+Unable to manage privacy settings,Account Management
+Profile data not saving,Account Management
+Need to update contact details,Account Management
+Unable to manage notification preferences,Account Management
+Duplicate user profile created,Account Management
+Account synchronization issue,Account Management
+Unable to remove linked account,Account Management
+Profile verification pending,Account Management
+Need help with user permissions,Account Management
+Order exchange request failed,Order Issue
+Item missing from package,Order Issue
+Delivery delayed due to weather,Order Issue
+Unable to modify shipping address,Order Issue
+Shipment tracking number invalid,Order Issue
+Courier partner issue reported,Order Issue
+Need urgent order delivery,Order Issue
+Order cancellation refund pending,Order Issue
+Received incorrect invoice with order,Order Issue
+Replacement product not delivered,Order Issue
